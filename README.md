@@ -23,6 +23,7 @@ _Curso_
 __Curso__
 
 - [x] tarea
+- [ ] tarea
 
 ```html
 <h1>Hola</h1>
